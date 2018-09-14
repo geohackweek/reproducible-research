@@ -101,7 +101,7 @@ Example: [https://nsls-ii.github.io/scientific-python-cookiecutter](https://nsls
 > ## Hack session
 >
 > 1. create python package
-> 2. choose a license
+> 2. choose a license ([https://choosealicense.com/](https://choosealicense.com/))
 > 3. write doctest
 > 4. bug? fix test / re-run
 > 5. setup Travis-CI / CircleCI
