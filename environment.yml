@@ -1,0 +1,10 @@
+name: tutorial-env
+channels:
+- conda-forge
+dependencies:
+- python=3.6
+- numpy
+- matplotlib
+- pandas
+- bokeh
+- rise
